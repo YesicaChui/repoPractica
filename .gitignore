@@ -1,0 +1,6 @@
+bocetos/
+fuentes/
+*.ai
+*.log
+envio.php
+*.txt
